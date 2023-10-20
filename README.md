@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+  #badges a {
+    text-decoration: none;
+  }
+</style>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/logan-warren-2232371a8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -26,3 +32,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
