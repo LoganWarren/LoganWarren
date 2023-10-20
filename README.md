@@ -16,19 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="badges">
-  <span style="text-decoration: none;">
-    <a href="https://www.linkedin.com/in/logan-warren-2232371a8/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </span>
-  <span style="text-decoration: none;">
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-03045e?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-  </span>
-  <span style="text-decoration: none;">
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </span>
+  <a href="https://www.linkedin.com/in/logan-warren-2232371a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border: none;"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-03045e?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" style="border: none;"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="border: none;"/>
+  </a>
 </div>
+
