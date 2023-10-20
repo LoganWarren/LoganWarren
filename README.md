@@ -1,4 +1,5 @@
-### Hi there 👋
+
+[![An image of @loganwarren's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/loganwarren)](https://holopin.io/@loganwarren)
 
 <!--
 **LoganWarren/LoganWarren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![An image of @loganwarren's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/loganwarren)](https://holopin.io/@loganwarren)
