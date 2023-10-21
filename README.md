@@ -26,3 +26,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<a href="YOUR_WEBSITE_URL">
+  <img src="https://img.shields.io/badge/Website-555?style=for-the-badge&logo=globe&logoColor=white" alt="Website Badge" />
+</a>
