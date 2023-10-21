@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 <div id="badges">
   <a href="https://loganwarren.xyz/">
-    <img src="https://img.shields.io/badge/Website-green?style=for-the-badge" alt="Website" style="border: none;"/>
+    <img src="https://img.shields.io/badge/Website-555?style=for-the-badge&logo=globe&logoColor=white" alt="Website" style="border: none;"/>
   </a>
 </div>
 
