@@ -19,11 +19,12 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/logan-warren-2232371a8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border: none;"/>
   </a>
-</div>
-<div id="badges" align="center">
-  <a href="https://loganwarren.xyz/">
+    <a href="https://loganwarren.xyz/">
     <img src="https://img.shields.io/badge/Website-555?style=for-the-badge&logo=Google&logoColor=white" alt="Website"/>
   </a>
+</div>
+<div id="badges" align="center">
+
 </div>
 
 --------
