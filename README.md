@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 
 --------
 
+[![An image of @loganwarren's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/loganwarren)](https://holopin.io/@loganwarren)
+
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
